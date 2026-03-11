@@ -1,0 +1,4 @@
+﻿*.xpi
+*.zip
+Thumbs.db
+.DS_Store
